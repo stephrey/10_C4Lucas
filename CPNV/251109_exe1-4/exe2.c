@@ -1,4 +1,4 @@
-/* exe2.c : lire le jour de la semaine et retourné une chaine de caractere correspondant au jour saisi */
+/* exe2.c : lire le jour de la semaine et retourner une chaine de caractere correspondant au jour saisi */
 #include <stdio.h>
 
 int main()
