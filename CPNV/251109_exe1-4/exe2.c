@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-/* exe2.c : lire le mois et retourner le nombre de jour avec l'instruction switch */
-=======
 /* exe2.c : lire le jour de la semaine et retourner une chaine de caractere correspondant au jour saisi */
->>>>>>> e2af7eda351c45cfbd6dfc56629d03728e7f9fc6
 #include <stdio.h>
 
 int main()
