@@ -2,6 +2,10 @@
 
 Repo d'exercice de programmation en C pour Lucas. 
 
+## CEPNV
+Dossier de travail pour cours prof au CEPNV
+---
+
 ## Exercice 01, Programme "hello world"
 ### 01_HeloWorld.c
 il s'agit d'un premier programme "hello world" qu'il s'agit de modifier
